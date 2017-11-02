@@ -1,7 +1,8 @@
 1.禾夕博主(不是很全，但部分讲的挺好，如Cache和Compaction部分)http://blog.csdn.net/u012658346
 2.sparkliang（讲的很全，但讲的挺深入，不适合直接看，建议对leveldb整体有了了解之后再看）http://blog.csdn.net/sparkliang/article/category/488400
 3.庖丁解LevelDB，这个博主讲的也挺不错的。http://www.jianshu.com/u/f19638f5eee6
-4.罗道文博主，应该是在博主研究生阶段写的leveldb解读，非常棒！他的博客下还有许多其他代码的解读，有时间可以多多去访问。www.luodw.cc。
+4.罗道文博主，应该是在博主研究生阶段写的leveldb解读，非常棒！他的博客下还有许多其他代码的解读，有时间可以多多去访问。www.luodw.cc（现在已经失效了，太可惜了...）。
+5.关于Bloom Filter的相关概念和它在LevelDB中的应用链接地址：http://blog.csdn.net/jiaomeng/article/details/1495500（概念）http://blog.csdn.net/lanxuezaipiao/article/details/38228237（LevelDB中的应用），https://yq.aliyun.com/articles/5833（结合上一个链接一起看）。
 
 总体说来，LevelDB网上解读的资料还是很多的，但总体就是水平层次不齐，我也是在读了很多博客之后才对LevelDB有了较为详细的了解。所以我希望我整理的资料对
 后来的学习者有所帮助!因为我明天就要去做一个关于LevelDB的报告,哈哈哈~~
